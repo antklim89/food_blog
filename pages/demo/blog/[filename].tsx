@@ -1,5 +1,6 @@
-// THIS FILE HAS BEEN GENERATED WITH THE TINA CLI.
-// This is a demo file once you have tina setup feel free to delete this file
+/* eslint-disable */
+// @ts-nocheck
+
 
 import Head from 'next/head';
 import { createGlobalStyle } from 'styled-components';

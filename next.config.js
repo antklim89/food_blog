@@ -8,6 +8,8 @@ const nextConfig = {
             'localhost',
         ],
     },
+
+    ignoreBuildErrors: true,
 };
 
 module.exports = nextConfig;
